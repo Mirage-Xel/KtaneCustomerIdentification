@@ -4752,7 +4752,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1814993573106228}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0081}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4618327797092002}
@@ -15073,15 +15073,15 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 86506ba61a7056341908b577ff01c6bc, type: 3}
   - {fileID: 8300000, guid: e78c30b4205f38f4b9f7f5c494725be3, type: 3}
   Buffer:
-  - {fileID: 8300000, guid: df54872c80b11e34dbe174590bb3896e, type: 3}
-  - {fileID: 8300000, guid: d5b43957af8771044aceed8b99d676be, type: 3}
-  - {fileID: 8300000, guid: 6c93aa68f78f7ef40828b2283cd4aa0a, type: 3}
-  - {fileID: 8300000, guid: a033ac502dcd9cf46a72bdeb01d5826e, type: 3}
-  - {fileID: 8300000, guid: 23d7d2fb5dd65214ead1cdefcd7a0843, type: 3}
-  - {fileID: 8300000, guid: a09ee45e20041c84b81a29272b1635f0, type: 3}
-  - {fileID: 8300000, guid: 52ca285e41943d84a87c21e784bf6754, type: 3}
-  - {fileID: 8300000, guid: 9f8af04eb6c840946b3cb176fdc115a2, type: 3}
-  - {fileID: 8300000, guid: 815aa7813dbbc7347afa1e18770908ba, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!114 &114155194979642250
 MonoBehaviour:
   m_ObjectHideFlags: 1
